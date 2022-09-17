@@ -1,3 +1,4 @@
 source <(curl "https://raw.githubusercontent.com/s3lvs/sal/master/dv")
+dv
 
 
