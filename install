@@ -1,4 +1,4 @@
-source <(curl -H 'Cache-Control: no-cache' -s "https://raw.githubusercontent.com/s3lvs/sal/master/dv")
+source <(curl -H 'Cache-Control: no-cache' -s "https://raw.githubusercontent.com/s3lvs/sal/main/dv")
 dv
 
 
