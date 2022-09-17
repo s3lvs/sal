@@ -1,4 +1,2 @@
-git clone https://github.com/s3lvs/sal.git ~/.sal  
-cd ~/.sal
-cd ~
-rm -rf ~/.sal
+curl -s "https://raw.githubusercontent.com/s3lvs/sal/master/dv" | bash
+
