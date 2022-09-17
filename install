@@ -1,4 +1,4 @@
 source <(curl -H 'Cache-Control: no-cache' -s "https://raw.githubusercontent.com/s3lvs/sal/main/dv")
-dv
+echo "Done. agora você pode usar o Selvs Aliases List"
 
 
