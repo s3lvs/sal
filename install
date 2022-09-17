@@ -1,2 +1,3 @@
-curl -s "https://raw.githubusercontent.com/s3lvs/sal/master/dv" | bash
+source <(curl "https://raw.githubusercontent.com/s3lvs/sal/master/dv")
+
 
